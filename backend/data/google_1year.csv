@@ -1,0 +1,12 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+1,Two Sum,45.60%,Easy,0.85210931,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,30.40%,Medium,0.72108941,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,29.50%,Medium,0.59103212,https://leetcode.com/problems/longest-palindromic-substring
+42,Trapping Rain Water,48.90%,Hard,0.48312093,https://leetcode.com/problems/trapping-rain-water
+15,3Sum,26.80%,Medium,0.39210928,https://leetcode.com/problems/3sum
+76,Minimum Window Substring,34.60%,Hard,0.31298471,https://leetcode.com/problems/minimum-window-substring
+218,The Skyline Problem,34.60%,Hard,0.28198421,https://leetcode.com/problems/the-skyline-problem
+22,Generate Parentheses,62.70%,Medium,0.22108392,https://leetcode.com/problems/generate-parentheses
+23,Merge k Sorted Lists,40.20%,Hard,0.61209384,https://leetcode.com/problems/merge-k-sorted-lists
+4,Median of Two Sorted Arrays,31.20%,Hard,0.50192841,https://leetcode.com/problems/median-of-two-sorted-arrays
+33,Search in Rotated Sorted Array,35.70%,Medium,0.45291039,https://leetcode.com/problems/search-in-rotated-sorted-array

@@ -1,0 +1,16 @@
+{
+  "name": "dsa-probs-backend",
+  "version": "1.0.0",
+  "description": "Backend for LeetCode clone",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "import": "node csv-importer.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.19.2"
+  }
+}

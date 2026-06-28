@@ -1,0 +1,30 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+1,Two Sum,45.60%,Easy,0.34641444,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,33.90%,Medium,0.30384416,https://leetcode.com/problems/add-two-numbers
+21,Merge Two Sorted Lists,53.50%,Easy,0.26127388,https://leetcode.com/problems/merge-two-sorted-lists
+1096,Brace Expansion II,62.20%,Hard,0.23638877,https://leetcode.com/problems/brace-expansion-ii
+741,Cherry Pickup,33.90%,Hard,0.20909179,https://leetcode.com/problems/cherry-pickup
+5,Longest Palindromic Substring,29.50%,Medium,0.18726302,https://leetcode.com/problems/longest-palindromic-substring
+3,Longest Substring Without Repeating Characters,30.40%,Medium,0.14469274,https://leetcode.com/problems/longest-substring-without-repeating-characters
+82,Remove Duplicates from Sorted List II,36.80%,Medium,0.11108820,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
+274,H-Index,36.10%,Medium,0.07416907,https://leetcode.com/problems/h-index
+706,Design HashMap,61.30%,Easy,0.06834426,https://leetcode.com/problems/design-hashmap
+22,Generate Parentheses,62.70%,Medium,0.06759329,https://leetcode.com/problems/generate-parentheses
+115,Distinct Subsequences,38.30%,Hard,0.06149478,https://leetcode.com/problems/distinct-subsequences
+739,Daily Temperatures,63.30%,Medium,0.06111383,https://leetcode.com/problems/daily-temperatures
+420,Strong Password Checker,14.00%,Hard,0.06108769,https://leetcode.com/problems/strong-password-checker
+218,The Skyline Problem,34.60%,Hard,0.05644131,https://leetcode.com/problems/the-skyline-problem
+76,Minimum Window Substring,34.60%,Hard,0.05473322,https://leetcode.com/problems/minimum-window-substring
+728,Self Dividing Numbers,74.30%,Easy,0.05465841,https://leetcode.com/problems/self-dividing-numbers
+15,3Sum,26.80%,Medium,0.05354767,https://leetcode.com/problems/3sum
+206,Reverse Linked List,62.50%,Easy,0.04634644,https://leetcode.com/problems/reverse-linked-list
+725,Split Linked List in Parts,52.20%,Medium,0.04603804,https://leetcode.com/problems/split-linked-list-in-parts
+53,Maximum Subarray,46.50%,Medium,0.04299340,https://leetcode.com/problems/maximum-subarray
+37,Sudoku Solver,43.60%,Hard,0.04052783,https://leetcode.com/problems/sudoku-solver
+25,Reverse Nodes in k-Group,42.10%,Hard,0.04023675,https://leetcode.com/problems/reverse-nodes-in-k-group
+202,Happy Number,50.40%,Easy,0.03853744,https://leetcode.com/problems/happy-number
+42,Trapping Rain Water,48.90%,Hard,0.03849096,https://leetcode.com/problems/trapping-rain-water
+560,Subarray Sum Equals K,43.90%,Medium,0.03787136,https://leetcode.com/problems/subarray-sum-equals-k
+7,Reverse Integer,25.80%,Medium,0.03703110,https://leetcode.com/problems/reverse-integer
+31,Next Permutation,32.60%,Medium,0.03686102,https://leetcode.com/problems/next-permutation
+74,Search a 2D Matrix,36.50%,Medium,0.03685354,https://leetcode.com/problems/search-a-2d-matrix
