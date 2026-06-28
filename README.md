@@ -1,20 +1,20 @@
-# 🎯 Interview Radar
+# Interview Radar
 
 **Interview Radar** is a premium, company-wise LeetCode preparation tracker and code playground. It helps developers focus their DSA prep by targeting questions asked by specific tech companies (Google, LinkedIn, Amazon, Uber, etc.) while building consistency through a rolling 1-year LeetCode-style activity map.
 
 ---
 
-## ✨ Features
+##  Features
 
-- **📂 Company-Wise Coding Dataset**: Sort and filter hundreds of interview questions by difficulty, search terms, and specific target companies.
-- **📊 LeetCode-Style Activity Timeline**: Grouped month-by-month contribution calendar with exact day grids, column alignment, and native tooltips showing daily completed problem counts.
-- **🔥 Live Streaks & Progress Dashboard**: Real-time progress trackers showing problem acceptance, solved statistics, and active daily streaks.
-- **💻 Interactive Code Sandbox**: Write code solutions in **JavaScript**, **Python**, or **C++** using language templates and run them against mock test cases directly on the page.
-- **🌓 Adaptive Themes**: Premium dark mode and a high-contrast light mode designed for long coding sessions.
+- ** Company-Wise Coding Dataset**: Sort and filter hundreds of interview questions by difficulty, search terms, and specific target companies.
+- ** LeetCode-Style Activity Timeline**: Grouped month-by-month contribution calendar with exact day grids, column alignment, and native tooltips showing daily completed problem counts.
+- ** Live Streaks & Progress Dashboard**: Real-time progress trackers showing problem acceptance, solved statistics, and active daily streaks.
+- ** Interactive Code Sandbox**: Write code solutions in **JavaScript**, **Python**, or **C++** using language templates and run them against mock test cases directly on the page.
+- ** Adaptive Themes**: Premium dark mode and a high-contrast light mode designed for long coding sessions.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React (Vite), vanilla CSS, HTML5.
 - **Backend**: Node.js, Express.
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run the project on your local machine:
 
@@ -51,7 +51,7 @@ The application will launch on `http://localhost:5173`.
 
 ---
 
-## 🌐 Deploying to the Public
+##  Deploying to the Public
 
 ### Expose on local Wi-Fi (Quick Share)
 If you want to access the app from your phone or let someone in the same room try it:
